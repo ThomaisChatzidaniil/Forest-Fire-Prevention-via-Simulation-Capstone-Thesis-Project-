@@ -4,7 +4,7 @@
 
 This project investigates the use of **computer vision and machine learning for early forest fire detection**, combining a **Unity-based forest simulation** with **real-world video data** to create and evaluate datasets for fire detection.
 
-##Overview
+## Overview
 
 The project focuses on:
 
