@@ -18,7 +18,7 @@ The project focuses on:
 
 ## Technologies
 
-`Unity` `C#` `Python` `CNN` `Computer Vision` `Machine Learning` `JSON`
+`Unity` `C#` `Python` `CNN` `Computer Vision` `Machine Learning` `Transformers`
 
 ## Workflow
 
