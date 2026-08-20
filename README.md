@@ -39,13 +39,13 @@ Performance Comparison
       ↓
 Documentation
 ```
-## 🎓 Academic Project
+## Academic Project
 
 **Author:** Thomais Chatzidaniil  
 **Degree:** BSc Computer Science  
 **Institution:** American University of Thessaloniki (ACT)  
 **Year:** 2025
 
-## 🚀 Future Work
+## Future Work
 
 Future improvements include larger datasets, more realistic environmental conditions, additional computer vision models, and further evaluation of real-time forest fire detection.
